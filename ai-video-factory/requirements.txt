@@ -1,0 +1,8 @@
+transformers
+torch
+TTS
+opencv-python
+ffmpeg-python
+Pillow
+numpy
+tqdm
